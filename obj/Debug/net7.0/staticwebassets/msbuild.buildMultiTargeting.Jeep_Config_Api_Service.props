@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jeep_Config_Api_Service.props" />
+</Project>
